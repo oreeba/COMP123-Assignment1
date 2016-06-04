@@ -13,7 +13,8 @@ using System.Threading.Tasks;
  *                     number between 1 and 100 to the abilities (strength, speed, health). Depending on the hero's attempt to hit, the program
  *                     will display the hero's damage caused. The program will then display the hero's ability scroes to the console.
  *                     determine the damage if hero hits the target and display appropriate messages to the 
- *                     console.                     
+ *                     console.
+ *GitHub: https://github.com/oreeba/COMP123-Assignment1.git                                          
  */
 
 

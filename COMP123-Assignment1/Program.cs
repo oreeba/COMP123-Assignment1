@@ -14,7 +14,7 @@ using System.Threading.Tasks;
  *                     will display the hero's damage caused. The program will then display the hero's ability scroes to the console.
  *                     determine the damage if hero hits the target and display appropriate messages to the 
  *                     console. 
- *                     
+ *GitHub: https://github.com/oreeba/COMP123-Assignment1.git                     
  * 
  */
 
